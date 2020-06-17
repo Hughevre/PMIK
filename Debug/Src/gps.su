@@ -1,0 +1,8 @@
+gps.c:17:6:gps_init	24	static
+gps.c:50:6:gps_rcv_handler	24	static
+gps.c:73:6:gps_read_field	16	static
+gps.c:85:6:gps_process_line	16	static
+gps.c:94:6:gps_process_gprmc	24	static
+gps.c:137:6:gps_process_gpvtg	16	static
+gps.c:156:6:gps_process_gpgga	16	static
+gps.c:180:6:gps_process_gpgsa	16	static

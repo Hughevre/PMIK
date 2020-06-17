@@ -1,0 +1,4 @@
+bluetooth.c:29:6:blue_parser_init	32	static
+bluetooth.c:49:6:blue_parser_recv_handler	24	static
+bluetooth.c:76:6:blue_parser_read_field	16	static
+bluetooth.c:92:6:blue_parser_process_frame	16	static
